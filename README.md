@@ -18,15 +18,15 @@
 
 | 이름 | 최효은 | 구경범 | 노현수 |
 | :------------: | :------------: | :------------: | :------------: |
-|  | <img src="https://avatars.githubusercontent.com/u/174182609?v=4" width="150" /> | <img src="https://avatars.githubusercontent.com/u/174182609?v=4" width="150" /> | <img src="https://avatars.githubusercontent.com/u/174182609?v=4" width="150" /> |
-| 깃허브 | [@kku9](https://github.com/kku9) | [@kku9](https://github.com/kku9) | [@kku9](https://github.com/kku9) |
+|  | <img src="https://avatars.githubusercontent.com/u/174424101?v=4" width="150" /> | <img src="https://avatars.githubusercontent.com/u/174182609?v=4" width="150" /> | <img src="https://avatars.githubusercontent.com/u/175070823?v=4" width="150" /> |
+| 깃허브 | [@hyoeun96](https://github.com/hyoeun96) | [@kku9](https://github.com/kku9) | [@watersooo](https://github.com/watersooo) |
 | 역할 | Project Leader | Technology Leader| Engineer|
 |  |  |  |  |  |  |
 
 | 이름 | 박현우 | 송태훈 |
 | :------------: | :------------: | :------------: |
-|  | <img src="https://avatars.githubusercontent.com/u/96418737?v=4" width="150" />| <img src="https://avatars.githubusercontent.com/u/174774514?v=4" width="150" /> |
-| 깃허브 | [@hyeeonwoo](https://github.com/hyeeonwoo) | [@jiyoung0226](https://github.com/jiyoung0226) |
+|  | <img src="https://avatars.githubusercontent.com/u/96418737?v=4" width="150" />| <img src="https://avatars.githubusercontent.com/u/106800250?v=4" width="150" /> |
+| 깃허브 | [@hyeeonwoo](https://github.com/hyeeonwoo) | [@SongTaeHoon](https://github.com/SongTaeHoon) |
 | 역할 | Engineer | Engineer |
 
 
