@@ -39,7 +39,7 @@ spec:
               app: index-app
       containers:
         - image: 784849575779.dkr.ecr.ap-northeast-2.amazonaws.com/nginx-index:v5.0
-          name: trd-index
+          name: index
           ports:
             - containerPort: 80
           resources:
