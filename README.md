@@ -90,7 +90,7 @@
 </table>
 
 ## 🧱아키텍처
-
+![architecture.png](images/architecture.png)
 
 
 
@@ -100,6 +100,8 @@
 
 ## 🗂PAGE
 --PAGE
-
-
+![index.jpeg](images/index.jpeg) ![rollingupdate.jpeg](images/rollingupdate.jpeg)
+![signup.jpeg](images/signup.jpeg) ![login.jpeg](images/login.jpeg)
+![admin.jpeg](images/admin.jpeg) ![introduce.jpeg](images/introduce.jpeg)
+![category.jpeg](images/category.jpeg)
 
